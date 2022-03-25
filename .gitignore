@@ -1,3 +1,4 @@
 mongo
 redis
 kafka
+**/__pycache__/
